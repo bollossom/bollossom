@@ -1,8 +1,8 @@
-### Hello. I'm Sherry.Qiu.
+### Hello. I'm Sherry.qiu.
 
 - 🌱 currently learning at UESTC
 - 👀 Conducting research on **AI** and **Computer Vision** 
-- 💡 Open to collaborating on projects and innovative ideas.
+- 💡  Open to collaborating on projects and innovative ideas.
 - 💻 Currently working on **spiking neural network**.
 
   
