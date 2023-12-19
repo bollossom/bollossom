@@ -1,6 +1,6 @@
-### Hello. I'm Sherry.qiu.
+  ### Hello. I'm Xuerui Qiu.
 
-- 🌱 currently learning at UESTC
+- 🌱 a Ph.D Student in CASIA, [BIClab](https://github.com/BICLab)
 - 👀 Conducting research on **Edge AI** and **Computer Vision** 
 - 💡  Open to collaborating on projects and innovative ideas.
 - 💻 Currently working on **Spiking neural network**.
